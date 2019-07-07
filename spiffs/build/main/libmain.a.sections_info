@@ -1,0 +1,46 @@
+In archive C:/msys32/home/ASUS/spiffs/build/main/libmain.a:
+
+spiffs_example_main.o:     file format elf32-xtensa-le
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .literal.app_main 00000128  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .text         00000000  00000000  00000000  0000015c  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  2 .data         00000000  00000000  00000000  0000015c  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  3 .bss          00000000  00000000  00000000  0000015c  2**0
+                  ALLOC
+  4 .rodata.str1.4 00000358  00000000  00000000  0000015c  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  5 .rodata       00000010  00000000  00000000  000004b4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
+  6 .text.app_main 000002e7  00000000  00000000  000004c4  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  7 .data.TempName 00000004  00000000  00000000  000007ac  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+  8 .debug_frame  00000028  00000000  00000000  000007b0  2**2
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+  9 .debug_info   00001131  00000000  00000000  000007d8  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 10 .debug_abbrev 00000207  00000000  00000000  00001909  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_loc    00000044  00000000  00000000  00001b10  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 12 .debug_aranges 00000020  00000000  00000000  00001b54  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 13 .debug_ranges 00000010  00000000  00000000  00001b74  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 14 .debug_line   00000433  00000000  00000000  00001b84  2**0
+                  CONTENTS, RELOC, READONLY, DEBUGGING
+ 15 .debug_str    000007d2  00000000  00000000  00001fb7  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 16 .comment      0000003c  00000000  00000000  00002789  2**0
+                  CONTENTS, READONLY
+ 17 .xtensa.info  00000038  00000000  00000000  000027c5  2**0
+                  CONTENTS, READONLY
+ 18 .xt.lit       00000008  00000000  00000000  000027fd  2**0
+                  CONTENTS, RELOC, READONLY
+ 19 .xt.prop      00000114  00000000  00000000  00002805  2**0
+                  CONTENTS, RELOC, READONLY
